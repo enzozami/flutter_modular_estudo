@@ -1,6 +1,5 @@
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter_modular_example/app/produto/produto_page.dart';
-import 'package:flutter_modular_example/app/produto/produto_page2.dart';
 
 class ProdutoModule extends Module {
   @override
